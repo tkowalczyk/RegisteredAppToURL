@@ -38,3 +38,7 @@ Before client application starts, it's checking if runs through web link or manu
             }
 
 Above technic allow us to run applications from a Web with specific parameters.
+
+**More examples**
+
+Feel free to visit my homepage [Tomasz Kowalczyk](http://tomek.kownet.info/ "Tomasz Kowalczyk") to see more complex examples.
